@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7d2f36971ccf8f841993a763a8d692b0
+timeCreated: 1505330098
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Super Skinny Pixel Bricks
+  fontNames:
+  - Super Skinny Pixel Bricks
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
